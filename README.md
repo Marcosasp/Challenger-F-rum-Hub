@@ -49,6 +49,3 @@ Remova tópicos definitivamente do sistema.
 | **Spring Security** | Autenticação e autorização de usuários |
 
 ---
-
-## 📁 Estrutura do Projeto
-
